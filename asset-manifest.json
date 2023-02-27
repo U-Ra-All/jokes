@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-course-react-router-jokes/static/css/main.f5ec338f.chunk.css",
-    "main.js": "/react-course-react-router-jokes/static/js/main.6bd3492c.chunk.js",
-    "main.js.map": "/react-course-react-router-jokes/static/js/main.6bd3492c.chunk.js.map",
+    "main.js": "/react-course-react-router-jokes/static/js/main.803def37.chunk.js",
+    "main.js.map": "/react-course-react-router-jokes/static/js/main.803def37.chunk.js.map",
     "runtime-main.js": "/react-course-react-router-jokes/static/js/runtime-main.b91d236b.js",
     "runtime-main.js.map": "/react-course-react-router-jokes/static/js/runtime-main.b91d236b.js.map",
-    "static/js/2.289bf359.chunk.js": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js",
-    "static/js/2.289bf359.chunk.js.map": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js.map",
+    "static/js/2.5c63a7f2.chunk.js": "/react-course-react-router-jokes/static/js/2.5c63a7f2.chunk.js",
+    "static/js/2.5c63a7f2.chunk.js.map": "/react-course-react-router-jokes/static/js/2.5c63a7f2.chunk.js.map",
     "index.html": "/react-course-react-router-jokes/index.html",
     "static/css/main.f5ec338f.chunk.css.map": "/react-course-react-router-jokes/static/css/main.f5ec338f.chunk.css.map",
-    "static/js/2.289bf359.chunk.js.LICENSE.txt": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js.LICENSE.txt"
+    "static/js/2.5c63a7f2.chunk.js.LICENSE.txt": "/react-course-react-router-jokes/static/js/2.5c63a7f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b91d236b.js",
-    "static/js/2.289bf359.chunk.js",
+    "static/js/2.5c63a7f2.chunk.js",
     "static/css/main.f5ec338f.chunk.css",
-    "static/js/main.6bd3492c.chunk.js"
+    "static/js/main.803def37.chunk.js"
   ]
 }
