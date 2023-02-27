@@ -1,6 +1,7 @@
 {
   "name": "react-router-jokes",
   "version": "0.1.0",
+  "homepage": "https://U-Ra-All.github.io/jokes/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
@@ -38,7 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://U-Ra-All.github.io/jokes/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
