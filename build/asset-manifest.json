@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jokes/static/css/main.f5ec338f.chunk.css",
-    "main.js": "/jokes/static/js/main.6bd3492c.chunk.js",
-    "main.js.map": "/jokes/static/js/main.6bd3492c.chunk.js.map",
-    "runtime-main.js": "/jokes/static/js/runtime-main.aacc6dbb.js",
-    "runtime-main.js.map": "/jokes/static/js/runtime-main.aacc6dbb.js.map",
-    "static/js/2.289bf359.chunk.js": "/jokes/static/js/2.289bf359.chunk.js",
-    "static/js/2.289bf359.chunk.js.map": "/jokes/static/js/2.289bf359.chunk.js.map",
-    "index.html": "/jokes/index.html",
-    "static/css/main.f5ec338f.chunk.css.map": "/jokes/static/css/main.f5ec338f.chunk.css.map",
-    "static/js/2.289bf359.chunk.js.LICENSE.txt": "/jokes/static/js/2.289bf359.chunk.js.LICENSE.txt"
+    "main.css": "/react-course-react-router-jokes/static/css/main.f5ec338f.chunk.css",
+    "main.js": "/react-course-react-router-jokes/static/js/main.6bd3492c.chunk.js",
+    "main.js.map": "/react-course-react-router-jokes/static/js/main.6bd3492c.chunk.js.map",
+    "runtime-main.js": "/react-course-react-router-jokes/static/js/runtime-main.b91d236b.js",
+    "runtime-main.js.map": "/react-course-react-router-jokes/static/js/runtime-main.b91d236b.js.map",
+    "static/js/2.289bf359.chunk.js": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js",
+    "static/js/2.289bf359.chunk.js.map": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js.map",
+    "index.html": "/react-course-react-router-jokes/index.html",
+    "static/css/main.f5ec338f.chunk.css.map": "/react-course-react-router-jokes/static/css/main.f5ec338f.chunk.css.map",
+    "static/js/2.289bf359.chunk.js.LICENSE.txt": "/react-course-react-router-jokes/static/js/2.289bf359.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aacc6dbb.js",
+    "static/js/runtime-main.b91d236b.js",
     "static/js/2.289bf359.chunk.js",
     "static/css/main.f5ec338f.chunk.css",
     "static/js/main.6bd3492c.chunk.js"
